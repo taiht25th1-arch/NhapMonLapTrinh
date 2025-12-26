@@ -1,9 +1,11 @@
-void input(int b[], int & n);
+void input(int b[], int& n);
 void output(int b[], int n);
 void giatrichan(int b[], int n);
 void vitriam(int b[], int n);
 void giatrilonnhat(int b[], int n);
 void giatrinhonhat(int b[], int n);
 void nguyentonhohon100(int b[], int n);
-
-
+void tonggiatriam(int b[], int n);
+void sapxep(int b[], int n);
+int giatriduongdautien(int b[], int n);
+int giatrichancuoicung(int b[], int n);
