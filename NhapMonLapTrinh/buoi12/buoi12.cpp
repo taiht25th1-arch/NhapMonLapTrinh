@@ -17,11 +17,11 @@ int main()
     //tonggiatriam(a, n);
     //sapxep(a, n);
     //output(a, n);
-    int kq = giatrichancuoicung(a, n);
-    if (kq == -1) {
+    int vt = vitrichandautien(a, n);
+    if (vt == -1) {
         cout << "Khong co gai tri chan cuoi cung" << endl;
     }
     else {
-        cout << "Gia tri chan cuoi cung: " << kq << endl;
+        cout << "Vi tri chan cuoi cung: " << vt << endl;
     }
 }
